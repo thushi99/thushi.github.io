@@ -1,13 +1,3 @@
-<pre><span id="a">
- _______  _    _  _    _   _____  _    _  _____ 
-|__   __|| |  | || |  | | / ____|| |  | ||_   _|
-   | |   | |__| || |  | || (___  | |__| |  | |  
-   | |   |  __  || |  | | \___ \ |  __  |  | |  
-   | |   | |  | || |__| | ____) || |  | | _| |_ 
-   |_|   |_|  |_| \____/ |_____/ |_|  |_||_____|
-</span>
-</pre>                                                     
-                                                     
 <span id="a">root@thushi</span>:<span id="b">~</span><span id="c">$</span> cd Portfolio/
 <span id="a">root@thushi</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->whoami.txt<br/><br/>
 I'm Thushitharan. I'm an undergraduate student pursuing Cyber Security(Bachelor) degree at Sri Lanka Institute of Information Technology(SLIIT). I developped a minor interest, in web development in the age of 13 and then I started developping my interest in cyber security since past 3 years.
