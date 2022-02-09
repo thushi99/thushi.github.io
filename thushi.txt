@@ -14,13 +14,13 @@ I'm Thushitharan. I'm an undergraduate student pursuing Cyber Security(Bachelor)
 
 My Area of Interest includes: Web Development, OSINT, Web Application Pentesting, Reverse Engineering and Malware Analysis and playing CTF.
 <!-- sjkfhskjf -->
-Here's my <a href="https://c.tenor.com/bIrHe_MGkQAAAAAS/gpmuthu-sethapayale.gif'"><!--javascript:alert('Nice try, Stalker. Anyway, My Resume will be updated here soon.--> Resume</a> if you wanna know more about me.
+Here's my <a href="/Resume.pdf'"><!--javascript:alert('Nice try, Stalker. Anyway, My Resume will be updated here soon.--> Resume</a> if you wanna know more about me.
 
 <span id="a">root@thushi</span>:<span id="b">~</span><span id="c">$</span> cd ../Profiles/
 <span id="a">root@thushi</span>:<span id="b">~</span><span id="c">$</span> ls -la
 <br>
-drwxrwxrwx  2 root root 4096 Feb 5 06:59 <a href="https://www.linkedin.com/in/thushi99" target="_blank">Linkedin</a> <br> drwxrwxrwx  2 root root 4097 Feb 5 06:59 <a href="javascript:alert('I will update the links soon.');">Instagram</a><br>drwxrwxrwx  2 root root 4098 Feb 5 06:59 <a href="javascript:alert('Anga oru repository um illa, Seekkiram update panran');">Github</a><br>drwxrwxrwx  2 root root 4098 Feb 5 06:59 <a href="https://tryhackme.com/p/thushi99">Tryhackme</a><br>
-Oooh, Wait.. Feel free to reach me <a href="mailto:suthathushi@gmail.com">thushitharansutha@gmail.com</a>.<br>
+drwxrwxrwx  2 root root 4096 Feb 5 06:59 <a href="https://www.linkedin.com/in/thushi99" target="_blank">Linkedin</a> <br> drwxrwxrwx  2 root root 4097 Feb 5 06:59 <a href="https://www.instagram.com/thushi_m/">Instagram</a><br>drwxrwxrwx  2 root root 4098 Feb 5 06:59 <a href="https://github.com/thushi99">Github</a><br>drwxrwxrwx  2 root root 4098 Feb 5 06:59 <a href="https://tryhackme.com/p/thushi99">Tryhackme</a><br>
+Oooh, Wait.. Feel free to reach me <a href="mailto:thushitharansutha@gmail.com">thushitharansutha@gmail.com</a>.<br>
 
 <span id="a">root@thushi</span>:<span id="b">~</span><span id="c">$</span> exit
 
