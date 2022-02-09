@@ -14,7 +14,7 @@ I'm Thushitharan. I'm an undergraduate student pursuing Cyber Security(Bachelor)
 
 My Area of Interest includes: Web Development, OSINT, Web Application Pentesting, Reverse Engineering and Malware Analysis and playing CTF.
 <!-- sjkfhskjf -->
-Here's my <a href="/Resume.pdf">Resume</a> if you wanna know more about me.
+Here's my <a href="Resume.pdf">Resume</a> if you wanna know more about me.
 
 <span id="a">root@thushi</span>:<span id="b">~</span><span id="c">$</span> cd ../Profiles/
 <span id="a">root@thushi</span>:<span id="b">~</span><span id="c">$</span> ls -la
